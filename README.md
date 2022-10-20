@@ -1,4 +1,4 @@
-![dog](https://user-images.githubusercontent.com/113444855/196892429-03c35ed8-81df-4219-bd0b-642b51c6b4a2.jpg)
+<img src="spider.jpg" width="100" height="100"></img>
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=최강%20자바개발자&fontSize=90)
 
@@ -32,9 +32,9 @@
 -2번
 
 [네이버가자](https://naver.com)
----
+```
 System.WriteLine()
----
+```
 :smirk:<br>
 :joy:<br>
 :rage:
