@@ -1,4 +1,4 @@
-<image src='images/dog.jpg' width='100' height='100'/>
+![dog](https://user-images.githubusercontent.com/113444855/196892429-03c35ed8-81df-4219-bd0b-642b51c6b4a2.jpg)
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=최강%20자바개발자&fontSize=90)
 
