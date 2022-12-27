@@ -1,6 +1,6 @@
 <!--Heading-->
 
-# 👋 John Lee의 개발페이지입니다
+# 👋 JohnLee의 개발페이지입니다
 
 ![GitHub](https://img.shields.io/badge/-GitHub-123456?style=flat-square&logo=github&logoColor=black)
 ![C](https://img.shields.io/badge/-C-000080?style=flat-square&logo=C&logoColor=purple)
